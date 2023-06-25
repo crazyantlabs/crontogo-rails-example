@@ -1,24 +1,5 @@
-# README
+# Cron To Go Rails example
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This repo accompanies a tutorial that shows how to set up cron based Rails jobs on Heroku using Cron To Go.
 
-Things you may want to cover:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...

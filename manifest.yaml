@@ -5,7 +5,7 @@ jobs:
     command: 'rake db:update'
     schedule: '0 0 * * *'
     timezone: 'UTC'
-    dyno: 'Basic'
+    dyno: 'Eco'
     timeout: 300
     state: 'enabled'
 
