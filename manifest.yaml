@@ -1,0 +1,11 @@
+# manifest.yaml
+
+jobs:
+  - nickname: 'Daily data update'
+    command: 'rake db:update'
+    schedule: '0 0 * * *'
+    timezone: 'UTC'
+    dyno: 'Basic'
+    timeout: 300
+    state: 'enabled'
+
